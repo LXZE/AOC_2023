@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"command": "aoc output 2023 ${fileDirnameBasename}",
+			"label": "run ruby"
+		},
+		{
+			"type": "shell",
+			"command": "aoc spec 2023 ${fileDirnameBasename}",
+			"label": "run test ruby"
+		}
+	]
+}

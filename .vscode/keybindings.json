@@ -1,0 +1,19 @@
+[
+	{
+		"key": "cmd+r",
+		"command": "workbench.action.tasks.runTask",
+		"args": "run test ruby",
+		"when": "editorLangId == ruby"
+	},
+	{
+		"key": "cmd+shift+r",
+		"command": "workbench.action.tasks.runTask",
+		"args": "run ruby",
+		"when": "editorLangId == ruby"
+	},
+	{
+		"key": "cmd+shift+r",
+		"command": "-rerunSearchEditorSearch",
+		"when": "inSearchEditor"
+	}
+]
