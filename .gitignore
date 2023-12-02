@@ -58,3 +58,4 @@ build-iPhoneSimulator/
 # Custom
 input.txt
 *.md
+.env
