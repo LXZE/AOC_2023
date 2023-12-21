@@ -8,7 +8,7 @@
 		},
 		{
 			"type": "shell",
-			"command": "aoc spec 2023 ${fileDirnameBasename}",
+			"command": "RB_ENV=test aoc spec 2023 ${fileDirnameBasename}",
 			"label": "run test ruby"
 		}
 	]
