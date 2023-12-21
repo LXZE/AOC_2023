@@ -9,3 +9,5 @@ gem "aoc_rb"
 gem "paint", "~> 2.3"
 
 gem "algorithms", "~> 1.0"
+
+gem "matrix", "~> 0.4.2"
