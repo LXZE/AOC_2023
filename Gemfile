@@ -11,3 +11,8 @@ gem "paint", "~> 2.3"
 gem "algorithms", "~> 1.0"
 
 gem "matrix", "~> 0.4.2"
+
+
+gem "z3", "~> 0.0.20230311"
+
+gem "ffi", "= 1.12"
